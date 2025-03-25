@@ -30,7 +30,7 @@ BATCH_SIZE = 16
 RANDOM_STATE = 42
 
 
-PROJECT_FOLDER = '/content/drive/MyDrive/Fake_news_Bert/'
+PROJECT_FOLDER = 'Fake_news_Bert/'
 FAKE_DATA_PATH = os.path.join(PROJECT_FOLDER, 'Fake.csv')
 TRUE_DATA_PATH = os.path.join(PROJECT_FOLDER, 'True.csv')
 
